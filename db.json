@@ -1,0 +1,38 @@
+[  
+   {  
+      "id":4,
+      "name":"The Order",
+      "slug":"the-order",
+      "image_url":"https://cdn.intra.42.fr/coalition/image/4/order.svg",
+      "color":"#FF6950",
+      "score":7055,
+      "user_id":106
+   },
+   {  
+      "id":3,
+      "name":"The Assembly",
+      "slug":"the-assembly",
+      "image_url":"https://cdn.intra.42.fr/coalition/image/3/assembly.svg",
+      "color":"#A061D1",
+      "score":4975,
+      "user_id":35
+   },
+   {  
+      "id":2,
+      "name":"The Alliance",
+      "slug":"the-alliance",
+      "image_url":"https://cdn.intra.42.fr/coalition/image/2/alliance.svg",
+      "color":"#33C47F",
+      "score":8160,
+      "user_id":32
+   },
+   {  
+      "id":1,
+      "name":"The Federation",
+      "slug":"the-federation",
+      "image_url":"https://cdn.intra.42.fr/coalition/image/1/federation.svg",
+      "color":"#4180DB",
+      "score":5974,
+      "user_id":80
+   }
+]
