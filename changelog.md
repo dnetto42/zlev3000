@@ -1,12 +1,13 @@
-### petits changements dans le projet
+## petits changements dans le projet
 
   les config wifi doit etre dans la micro sd:
+  
     {
         "ssid" : "Mon_Super_Nom",
         "pswd" : "Mon_Super_MDP"
     }
 
-### petits changements hardware
+## petits changements hardware
 
 - [x] adafruit leds [link](https://www.adafruit.com/product/1138?length=4)
 - [x] adafruit esp32 (wifi) [link](https://www.adafruit.com/product/3405)
